@@ -10,3 +10,6 @@ links:
 - title: Правила
   description: Описание платформы, ее основные возможности, особенности и преимущества.
   href: rules.md
+- title: Moodle
+  description: 3.10.11
+  href: test_moodle.md
