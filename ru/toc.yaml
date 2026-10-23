@@ -24,6 +24,9 @@ navigation:
       - text: "Помощь"
         type: "link"
         url: "./help"
+      - text: "Moodle"
+        type: "link"
+        url: "./test_moodle"
     rightItems:
       - type: 'controls'
 
